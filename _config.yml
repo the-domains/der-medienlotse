@@ -1,6 +1,6 @@
 name: Der Medienlotse
 favicon: null
-layout_spectrum: 0.5625951311085373
+layout_spectrum: 0.98163
 typography_spectrum: 0.24202341749332845
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#004E98'
   brandStrength: 0.582000307040289
   lightness: 0.6880420604720712
-  saturation: 0.6086100502870977
+  saturation: 0.9375
   rhythmicContrast: 0.08120479877106845
 purpose: []
