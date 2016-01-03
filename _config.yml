@@ -1,6 +1,6 @@
 name: Der Medienlotse
 favicon: null
-layout_spectrum: 0.98163
+layout_spectrum: 0
 typography_spectrum: 0.8714
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#6e93c7'
+    - '#555251'
+    - '#b6c4e1'
+    - '#837f7f'
   brandStrength: 1
   lightness: 0.1875
   saturation: 0
