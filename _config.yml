@@ -1,0 +1,28 @@
+name: Der Medienlotse
+favicon: null
+layout_spectrum: 0.5625951311085373
+typography_spectrum: 0.24202341749332845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.582000307040289
+  lightness: 0.6880420604720712
+  saturation: 0.6086100502870977
+  rhythmicContrast: 0.08120479877106845
+purpose: []
