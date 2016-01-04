@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Der Medienlotse]]></title>
         <description><![CDATA[Der Medienlotse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/der-medienlotse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 19:07:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 09:02:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/der-medienlotse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d6faeb7-8eeb-4a87-b3ec-b732d4cda6b6.jpg">]]></description>
+            <link>https://thegrid.ai/der-medienlotse/364fde2e-dfc0-4a53-b2d8-cd1eb95f4191/index.html</link>
+            <guid isPermaLink="false">364fde2e-dfc0-4a53-b2d8-cd1eb95f4191</guid>
+            <pubDate>Mon, 04 Jan 2016 09:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08463074-8010-4cf4-824a-c556ba032410.jpg">]]></description>
+            <link>https://thegrid.ai/der-medienlotse/a9b2256f-39fd-4b72-9f79-815ed8cd05e8/index.html</link>
+            <guid isPermaLink="false">a9b2256f-39fd-4b72-9f79-815ed8cd05e8</guid>
+            <pubDate>Mon, 04 Jan 2016 08:59:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The State of Digital in Germany (Pt. III): Agencies & campaigns]]></title>
             <description><![CDATA[<article><h1>The State of Digital in Germany (Pt. III): Agencies & campaigns</h1><p>In this
@@ -13,8 +27,8 @@ last chapter about the digital world in Germany in 2016 I don’t want to talk
 about award-winning agencies (like Grabarz & Partner) or engaging ads (like
 Jung von Matt for Edeka), but about the struggle both agencies and their
 clients face in the digital sphere and how to create truly digital campaigns
-worth their name. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e489b06537d2b6707cb1951c8dfda624c6243087.png"></article>]]></description>
-            <link>undefinedthe-state-of-digital-in-germany-pt-iii-agencies-and-campai/index.html</link>
+worth their name. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb1d9a2128837e8d5e73a14368dd155b534e6157.png"></article>]]></description>
+            <link>https://thegrid.ai/der-medienlotse/the-state-of-digital-in-germany-pt-iii-agencies-and-campai/index.html</link>
             <guid isPermaLink="false">d9ef7489-1271-4904-a177-77b49dc6ad08</guid>
             <pubDate>Sun, 03 Jan 2016 19:07:46 GMT</pubDate>
         </item>
